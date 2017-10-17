@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/admission"
+        android:icon="@drawable/ic_admission"
+        android:title="@string/title_admission" />
+
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_contact"
+        android:title="@string/title_contacts" />
+
+    <item
+        android:id="@+id/pathway"
+        android:icon="@drawable/ic_pathway"
+        android:title="@string/title_pathway" />
+    <item
+        android:id="@+id/ed_policies"
+        android:icon="@drawable/ic_ed_policies"
+        android:title="@string/title_ed_policies" />
+
+
+</menu>

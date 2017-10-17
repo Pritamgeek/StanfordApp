@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StanfordApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_admission">Admission</string>
+    <string name="title_contacts">Contact</string>
+    <string name="title_ed_policies">ED policies</string>
+    <string name="title_pathway">Pathway</string>
+</resources>
